@@ -1,0 +1,8 @@
+* C:\Users\malit\OneDrive\Desktop\lesson9\voltagedivider.asc
+V1 N001 0 0.9
+R1 N001 N002 10
+R2 N002 0 10
+V2 N002 0 V
+.op
+.backanno
+.end
