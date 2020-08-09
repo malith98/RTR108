@@ -1,0 +1,6 @@
+##lesson 14##
+fristly i created simple web server using python and the http.server module.(P14_web_server.py)
+after i run it(running.py) and go to the localhost 8000 in web browser.
+then i go to the ngrok and download it and open it.
+after i type 'ngrok http 80' and run it.
+by using tunneling tool ngrok expose loacal servar globally.(3screenshots)   
