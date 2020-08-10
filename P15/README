@@ -1,0 +1,8 @@
+##lesson_15##
+#install and try angular locally#
+install--frisly i downloaded and installed 'node.js'.after run the commandbox and run the belowcodes.
+1)node --version
+2)npm install -g @angular/cli{installed}
+3)ng new angular9pro{create angular9 application}
+4)ng serve --open
+try angular-i read the tutorial in internet but it bit difficult to understand so after i go through the "learn angular" in localhost 4200 and did the example of project stackblitz.(not-locally)
