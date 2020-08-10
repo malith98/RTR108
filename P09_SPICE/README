@@ -1,0 +1,7 @@
+##lesson_09##
+fristly i have to install ng-spice,gschem and gnetlist to ubuntu virtual-box.i can install ng-spice but couldn't install other two,
+then i draw a circuit in a paper with elements and nodes.after i run the ngspice with my values and simulate the circuit and get the graph.(plot.img)
+graph is valid for (0ms-5ms).
+v1=0.9v
+R1=10ohm
+R2=10ohm
